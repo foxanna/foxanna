@@ -2,15 +2,13 @@
 
 **I am a mobile development expert, passionate about quality software, focused on Flutter.**
 
-For 7 years I have been creating cross-platform apps using [Xamarin](https://dotnet.microsoft.com/apps/xamarin) and [Flutter](https://flutter.dev/) technologies from sketches on a napkin to delivering functional and beautiful products to happy end-users.
+A few facts about me:
 
-I am [Google Developer Expert in Dart and Flutter](https://developers.google.com/community/experts/directory/profile/profile-anna-domashych).
-
-I am a [conference speaker and author of articles](https://github.com/foxanna/blog) on different topics related to Flutter and Xamarin.
-
-I [contribute to OSS](https://github.com/foxanna?tab=repositories).
-
-I also have an interest in [mobile apps design](https://dribbble.com/foxanna).
+* For 7 years I have been creating cross-platform apps using [Xamarin](https://dotnet.microsoft.com/apps/xamarin) and [Flutter](https://flutter.dev/) technologies from sketches on a napkin to delivering functional and beautiful products to happy end-users.
+* I am [Google Developer Expert in Dart and Flutter](https://developers.google.com/community/experts/directory/profile/profile-anna-domashych).
+* I am a [conference speaker and author of articles](https://github.com/foxanna/blog) on different topics related to Flutter and Xamarin.
+* I [contribute to OSS](https://github.com/foxanna?tab=repositories).
+* I also have an interest in [mobile apps design](https://dribbble.com/foxanna).
 
 
 <!--
