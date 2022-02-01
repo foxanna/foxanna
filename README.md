@@ -8,6 +8,7 @@ A few facts about me:
 - 😍 I am passionate about what I do, and programming is my major hobby.
 - 💙 I am a [Google Developer Expert in Dart and Flutter](https://developers.google.com/community/experts/directory/profile/profile-anna-domashych). First in my country.
 - 🎤 I am a [conference speaker and author of articles](https://github.com/foxanna/blog/blob/main/README.md) on different topics related to Flutter and Xamarin.
+- 👭 I am a mentor at programs like [Women Developer Academy](https://events.withgoogle.com/women-developers-academy/), [Road to GDE](https://events.withgoogle.com/road-to-gde/).
 - 🤝 I [contribute to OSS](https://github.com/foxanna?tab=repositories).
 - ✍🏻 I also have an interest in [mobile apps design](https://dribbble.com/foxanna).
 - 🇺🇦 I live in [Ukraine](https://goo.gl/maps/MCspakZUVRGEoH8w8). My timezone is EEST (UTC+03:00) during summer and EET (UTC+02:00) during winter.
