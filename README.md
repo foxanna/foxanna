@@ -6,7 +6,7 @@ A few facts about me:
 
 - 👩‍💻 For 8 years I have been creating cross-platform apps using [Xamarin](https://dotnet.microsoft.com/apps/xamarin) and [Flutter](https://flutter.dev/) technologies from sketches on a napkin to delivering functional and beautiful products to happy end-users.
 - 😍 I am passionate about what I do, and programming is my major hobby.
-- 💙 I am a [Google Developer Expert in Dart and Flutter](https://developers.google.com/community/experts/directory/profile/profile-anna-domashych). First in my country.
+- 💙 I am a [Google Developer Expert in Dart and Flutter](https://developers.google.com/community/experts/directory/profile/profile-anna-leushchenko). First in my country.
 - 🎤 I am a [conference speaker and author of articles](https://github.com/foxanna/blog/blob/main/README.md) on different topics related to Flutter and Xamarin.
 - 👭 I am a mentor at programs like [Women Developer Academy](https://events.withgoogle.com/women-developers-academy/), [Road to GDE](https://events.withgoogle.com/road-to-gde/).
 - 🤝 I [contribute to OSS](https://github.com/foxanna?tab=repositories).
