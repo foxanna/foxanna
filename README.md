@@ -8,7 +8,7 @@ A few facts about me:
 - 😍 I am passionate about what I do, and programming is my major hobby.
 - 💙 I am a [Google Developer Expert in Dart and Flutter](https://developers.google.com/community/experts/directory/profile/profile-anna-leushchenko). First in my country.
 - 🙋🏼‍♀️ I am Women Techmakers Ambassador.
-- 🎤 I [talk and blog about cross-platform development](https://github.com/foxanna/blog/blob/main/README.md).
+- 🎤 I [talk and blog](https://github.com/foxanna/blog/blob/main/README.md) about cross-platform development.
 - 👭 I mentor at programs like [Women Developer Academy](https://events.withgoogle.com/women-developers-academy/), [Road to GDE](https://events.withgoogle.com/road-to-gde/).
 - 🤝 I [contribute to OSS](https://github.com/foxanna?tab=repositories).
 - ✍🏻 I also have an interest in [mobile apps design](https://dribbble.com/foxanna).
