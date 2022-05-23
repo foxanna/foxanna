@@ -7,7 +7,7 @@ A few facts about me:
 - 👩‍💻 For 8 years I have been creating cross-platform apps using [Xamarin](https://dotnet.microsoft.com/apps/xamarin) and [Flutter](https://flutter.dev/) technologies from sketches on a napkin to delivering functional and beautiful products to happy end-users.
 - 😍 I am passionate about what I do, and programming is my major hobby.
 - 💙 I am a [Google Developer Expert in Dart and Flutter](https://developers.google.com/community/experts/directory/profile/profile-anna-leushchenko). First in my country.
-- 🙋🏼‍♀️ I am Women Techmakers Ambassador.
+- 🙋🏼‍♀️ I am [Women Techmakers Ambassador](https://www.womentechmakers.com/ambassadors/profiles/628b482c792ed347fbeda0dd/anna_leushchenko).
 - 🎤 I [talk and blog](https://github.com/foxanna/blog/blob/main/README.md) about cross-platform development.
 - 👭 I mentor at programs like [Women Developer Academy](https://events.withgoogle.com/women-developers-academy/), [Road to GDE](https://events.withgoogle.com/road-to-gde/).
 - 🤝 I [contribute to OSS](https://github.com/foxanna?tab=repositories).
