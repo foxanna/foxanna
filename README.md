@@ -23,7 +23,9 @@ A few facts about me:
 [![WMT](images/wmt.svg)](https://www.womentechmakers.com/ambassadors/profiles/628b482c792ed347fbeda0dd/anna_leushchenko)&nbsp;&nbsp;&nbsp;&nbsp;
 [![DOU](images/dou.svg)](https://dou.ua/users/foxanna/articles/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![StackOverflow](images/stackoverflow.svg)](https://stackoverflow.com/users/2452764/foxanna?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;
-[![sessionize](images/sessionize.svg)](https://sessionize.com/foxanna/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Sessionize](images/sessionize.svg)](https://sessionize.com/foxanna/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Dribble](images/dribbble.svg)](https://dribbble.com/foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
+[![YouTube](images/youtube.svg)](https://youtube.com/@foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Mastodon](images/mastodon.svg)](https://fluttercommunity.social/@foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
