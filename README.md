@@ -1,10 +1,10 @@
 ### Hi 👋🏻 I'm Anna 👩‍💻💙📱 🇺🇦
 
-**I am a mobile development expert, passionate about quality software, focused on Flutter.**
+**I am a mobile development expert, passionate about quality software, from Ukraine. I am Women Techmakers Ambassador and Google Developer Expert in Dart and Flutter. I talk and blog about cross-platform development, contribute to OSS, and mentor talented women in tech.**
 
-A few facts about me:
+Longer version:
 
-- 👩‍💻 For 8 years I have been creating cross-platform apps using [Xamarin](https://dotnet.microsoft.com/apps/xamarin) and [Flutter](https://flutter.dev/) technologies from sketches on a napkin to delivering functional and beautiful products to happy end-users.
+- 👩‍💻 For 10+ years I have been creating cross-platform apps using [Xamarin](https://dotnet.microsoft.com/apps/xamarin) and [Flutter](https://flutter.dev/) technologies from sketches on a napkin to delivering functional and beautiful products to happy end-users.
 - 😍 I am passionate about what I do, and programming is my major hobby.
 - 💙 I am a [Google Developer Expert in Dart and Flutter](https://developers.google.com/community/experts/directory/profile/profile-anna-leushchenko). First in my country.
 - 🙋🏼‍♀️ I am [Women Techmakers Ambassador](https://www.womentechmakers.com/ambassadors/profiles/628b482c792ed347fbeda0dd/anna_leushchenko).
@@ -27,5 +27,9 @@ A few facts about me:
 [![Dribble](images/dribbble.svg)](https://dribbble.com/foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
 [![YouTube](images/youtube.svg)](https://youtube.com/@foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Mastodon](images/mastodon.svg)](https://fluttercommunity.social/@foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=foxanna&theme=transparent&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21"/>
+</div>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
