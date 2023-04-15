@@ -27,6 +27,7 @@ Longer version:
 [![Dribble](images/dribbble.svg)](https://dribbble.com/foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
 [![YouTube](images/youtube.svg)](https://youtube.com/@foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Mastodon](images/mastodon.svg)](https://fluttercommunity.social/@foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
+[![DevTo](images/devto.svg)](https://dev.to/foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=foxanna&theme=transparent&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21"/>
