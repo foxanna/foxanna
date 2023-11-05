@@ -29,6 +29,8 @@ A few facts about me:
 [![DevTo](images/devto.svg)](https://dev.to/foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Mastodon](images/mastodon.svg)](https://fluttercommunity.social/@foxanna)&nbsp;&nbsp;&nbsp;&nbsp;
 [![BlueSky](images/bsky.svg)](https://bsky.app/profile/foxanna.bsky.social)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Threads](images/threads.svg)](https://www.threads.net/@annaleushchenko)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](images/instagram.svg)](https://www.instagram.com/annaleushchenko/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=foxanna&theme=transparent&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21"/>
